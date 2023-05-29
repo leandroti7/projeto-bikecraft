@@ -13,6 +13,10 @@
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
+@import "./home/depoimento.css";
+
+/* Header */
+@import "./seguros/seguros.css";
 
 @import "./bicicletas/bicicletas-lista.css";
 /* Bcicletas */
